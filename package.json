@@ -1,0 +1,24 @@
+{
+  "name": "tela_login_tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./style/style.css -o ./style/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taleskodama/Tela_Login_Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taleskodama/Tela_Login_Tailwind/issues"
+  },
+  "homepage": "https://github.com/Taleskodama/Tela_Login_Tailwind#readme",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.5",
+    "tailwindcss": "^4.0.5"
+  }
+}
